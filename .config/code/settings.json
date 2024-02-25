@@ -1,0 +1,51 @@
+{
+	"symbols.hidesExplorerArrows": true,
+
+	"workbench.iconTheme": "symbols",
+	"workbench.colorTheme": "One Dark Pro Darker",
+	"workbench.productIconTheme": "fluent-icons",
+	"workbench.sideBar.location": "right",
+	"workbench.list.smoothScrolling": true,
+	"workbench.tree.enableStickyScroll": true,
+
+	"editor.cursorBlinking": "expand",
+	"editor.cursorSmoothCaretAnimation": "on",
+	"editor.minimap.enabled": false,
+	"editor.linkedEditing": true,
+	"editor.guides.bracketPairs": true,
+	"editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+	"editor.stickyScroll.enabled": true,
+	"editor.stickyTabStops": true,
+	"editor.smoothScrolling": true,
+	"editor.scrollbar.scrollByPage": true,
+	"editor.experimental.asyncTokenization": true,
+	"editor.fontFamily": "'Cascadia Code PL','monospace', monospace",
+	"editor.fontLigatures": true,
+
+	"window.titleBarStyle": "custom",
+	"window.menuBarVisibility": "compact",
+
+	"oneDarkPro.bold": true,
+	"oneDarkPro.vivid": true,
+
+	"files.autoSave": "onWindowChange",
+
+	"breadcrumbs.enabled": false,
+
+	"terminal.integrated.cursorBlinking": true,
+	"terminal.integrated.stickyScroll.enabled": true,
+	"terminal.integrated.smoothScrolling": true,
+	"terminal.integrated.fontFamily": "'FiraCode Nerd Font'",
+
+	"notebook.stickyScroll.enabled": true,
+
+	"javascript.updateImportsOnFileMove.enabled": "always",
+	"typescript.updateImportsOnFileMove.enabled": "always",
+
+	"explorer.fileNesting.enabled": true,
+	"explorer.fileNesting.patterns": {
+		"package.json": "package-lock.json, yarn.lock, pnpm-lock.yaml, next.config.js, postcss.config.js, .gitignore, .eslintrc.json, biome.json, contentlayer.config.ts, .huskyrc, .lintstagedrc.js, commitlint.config.js, .npmrc, pnpm-workspace.yaml"
+	},
+
+	"git.autofetch": true
+}
